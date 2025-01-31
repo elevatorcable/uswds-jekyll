@@ -1,6 +1,8 @@
 title: This is the site title
 description: This is the site description.
 
+remote_theme: 18F/uswds-jekyll
+
 # GitHub information
 # This is used for adding an edit this page link to the footer
 github_info:
